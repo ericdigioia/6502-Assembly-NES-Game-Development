@@ -1,4 +1,4 @@
-# 6502-Assembly-NES-Game-Development
+# 6502-Assembly-NES-Game-Development-Playground
 ![Designed for Nintendo Entertainment System 6502 CPU][console-version]
 
 Just messing around with programming a Nintendo Entertainment System / Famicom game from scratch in 6502 assembly.
