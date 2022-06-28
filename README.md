@@ -3,6 +3,7 @@
 
 Just messing around with programming a Nintendo Entertainment System / Famicom game from scratch in 6502 assembly.
 Note that this is an unfinished, archived project of mine from 2019/2020.
+For my development environment, I used [NotePad++](https://notepad-plus-plus.org/) with a custom hotkey to run my AUTO.bat script which would create a backup of my code, compile the source, and launch the compiled software from an NES emulator in debug mode. For my compiler/assembler, I used [NES ASM v3.1](https://github.com/camsaul/nesasm).
 
 ## Source Code
 
@@ -13,6 +14,12 @@ The infile.asm is what is known as the program ROM, and contains everything else
 ## Compiled ROM
 
 The fully compiled software is infile.nes and can be run on either an emulator or real Nintendo hardware (both tested).
+
+![screenshot](/collisionRoomPreview_July2020.png?raw=true "July 2020 object collision test room")
+
+## Omissions
+
+You may notice that CHR viewer and 6502 compiler tools that are referenced in my AUTO.bat compile/test/archive script are missing here. That is because those tools are not my creation so I did not upload them to my repo.
 
 ## Special Thanks
 
